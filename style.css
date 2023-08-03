@@ -1,0 +1,100 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  header {
+    background-color: #0d0d0e;
+  }
+  .navbar-brand img {
+    margin-top: 5px;
+  }
+  .nav-link
+  {
+    color: blue;
+  }
+  .hero {
+    background-color: #f1ecf1;
+    color: #0b0101;
+    text-align: center;
+    padding: 80px 0;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .feature-icon {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+  }
+  
+  .features {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+  }
+  
+  .features h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .features p {
+    font-size: 16px;
+  }
+  
+ 
+  /* Add CSS styles for the rest of the page content */
+  /* Add CSS styles for the rest of the page content */
+
+  .footer {
+    background-color: #000307; /* Set the background color to blue */
+    color: #ca050c; /* Set the text color to white */
+    padding: 20px 0;
+  }
+  
+  .footer ul {
+    list-style: none;
+    padding: 0;
+    color: #e302f8;
+  }
+  
+  .footer ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer ul li a {
+    text-decoration: none;
+    color: #ffffff; /* Set the link color to white */
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .footer ul li a:hover {
+    color: #e302f8; /* Set the link color on hover */
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .social-icon {
+    display: inline-block;
+    margin: 0 10px;
+    color: #3314fd; /* Set the social icon color to white */
+    font-size: 24px;
+    transition: transform 0.2s ease-in-out, color 0.2s ease-in-out;
+  }
+  
+  .social-icon:hover {
+    transform: scale(1.2);
+    color: #ff0fcb; /* Set the social icon color on hover */
+  }
+  
